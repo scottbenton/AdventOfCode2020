@@ -49,9 +49,11 @@ These two work well for this solution, but I did want to find a solution that wo
 ### Recursive Solution
 
 The recursive solution relies on a list to keep track of our different counters.
-Each counter will start at 1 entry further along than our previous entry, and will end 1 counter before the next entry ends. For example, with n entries and a list of length 24 our first combination checked will be `[0, 1, 2, 3]`, and our last combination checked will be `[20, 21, 22, 23]`. By running things in this way, we ensure that no two counters will ever be on the same number.
+Each counter will start at 1 entry further along than our previous entry, and will end 1 counter before the next entry ends. For example, checking 4 entries with a list of length 24, our first combination checked will be `[0, 1, 2, 3]`, and our last combination checked will be `[20, 21, 22, 23]`. By running things in this way, we ensure that no two counters will ever be on the same number.
 
 Our base case for this solution is when we run out of indexes to increment. Whenever that happens, we check to see if the sum of the entries from the current counters matches the winning number, and if it does, we print out the product of those same entries.
+
+Our recursive function `recursiveNEntryWinner` has a nice starter function called `findNEntryWinner` that initializes the counterList and calls `recursiveNEntryWinner` with starting values
 
 Running the program gives this output
 
