@@ -1,5 +1,5 @@
 # File containing the expense report
-FILENAME = "./expense-report.txt";
+FILENAME = "./expense-report.txt"
 # The winning number to reach
 WINNING_NUMBER = 2020
 

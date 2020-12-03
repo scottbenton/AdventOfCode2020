@@ -3,4 +3,5 @@
 Solutions
 | Day | Description | Language Used |
 | --- | ----------- | ------------- |
-| 1 | [Report Repair](ReportRepair.md) | python |
+| 1 | [Report Repair](Day1/ReportRepair.md) | python |
+| 2 | [Password Philosophy](Day2/PasswordPhilosophy.md) | python |
