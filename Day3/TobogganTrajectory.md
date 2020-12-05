@@ -93,3 +93,7 @@ For the solution to part 1, I just called that function with the parameters give
 Part 2 required a bunch of different cases. While it would be trivial to pass those parameters in the same way as part 1, and just multiply the results together, I decided to create a list of TobogganTestCases, a new class I created that holds information on start positions and velocities for a given run.
 
 I then used the java streams api to run each test case against the overloaded `countTreesInPath` function. I overloaded this function to pull out the necessary parameters from the TobogganTestCase class. With a list of counts created, we reduce those counts into a product, and then print out the result.
+
+## What I learned
+
+This exercise offered a good opportunity to work with the streams API for Collections in java.

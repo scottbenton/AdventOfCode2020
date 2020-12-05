@@ -53,3 +53,7 @@ This problem makes it very easy to reuse code for both parts 1 and two. My code 
 To make the functions I have as reusable as possible, I pass a password checker function into the `checkPasswordFile` function. This way, whether we are testing policy 1 or policy 2, all we need to do to get the correct passwords is pass a function that takes in the password information contained in each line (password, letter to check, first number, second number), and returns a boolean value to show whether or not a password is valid.
 
 Beyond that, checking each password is pretty trivial, and the code can be found in the `isValidPasswordPolicy1` and `isValidPasswordPolicy2` functions that get passed to the `checkPasswordFile` function.
+
+## What I learned
+
+I learned that you can pass callback functions as parameters in python!
