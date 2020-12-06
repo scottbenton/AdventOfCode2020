@@ -7,3 +7,4 @@ Solutions
 | 2 | [Password Philosophy](Day2/PasswordPhilosophy.md) | Python |
 | 3 | [Toboggan Trajectory](Day3/TobogganTrajectory.md) | Java |
 | 4 | [Passport Processing](Day4/PassportProcessing.md) | Python |
+| 5 | [Binary Boarding](Day5/BinaryBoarding.md) | Javascript |
