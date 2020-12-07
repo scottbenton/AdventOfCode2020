@@ -8,3 +8,4 @@ Solutions
 | 3 | [Toboggan Trajectory](Day3/TobogganTrajectory.md) | Java |
 | 4 | [Passport Processing](Day4/PassportProcessing.md) | Python |
 | 5 | [Binary Boarding](Day5/BinaryBoarding.md) | Javascript |
+| 6 | [Custom Customs](Day6/CustomCustoms.md) | Java |
