@@ -10,3 +10,4 @@ Solutions
 | 5 | [Binary Boarding](Day5/BinaryBoarding.md) | Javascript |
 | 6 | [Custom Customs](Day6/CustomCustoms.md) | Java |
 | 7 | [Handy Haversack](Day7/HandyHaversack.md) | Javascript |
+| 8 | [Handheld Halting](Day8/HandheldHalting.md) | Python |
