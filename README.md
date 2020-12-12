@@ -12,3 +12,4 @@ Solutions
 | 7 | [Handy Haversack](Day7/HandyHaversack.md) | Javascript |
 | 8 | [Handheld Halting](Day8/HandheldHalting.md) | Python |
 | 9 | [Encoding Error](Day9/EncodingError.md) | Javascript |
+| 10 | [Adapter Array](Day10/AdapterArray.md) | Python |
