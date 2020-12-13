@@ -17,3 +17,4 @@ Solutions
 | 9 | [Encoding Error](Day9/EncodingError.md) | Javascript |
 | 10 | [Adapter Array](Day10/AdapterArray.md) | Python |
 | 11 | [Seating System](Day11/SeatingSystem.md) | Java |
+| 12 | [Rain Risk](Day12/RainRisk.md) | Java |
