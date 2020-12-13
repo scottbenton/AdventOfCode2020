@@ -1,6 +1,7 @@
 # 2020 Advent of Code Solutions
 
 Note -
+
 > These solutions are all contained within one file per day. While this isn't good practice, I didn't want to set up larger project directories within the individual days, especially since I'm using different languages. In addition, having one file per solution makes things a little easier to parse.
 
 Solutions
@@ -18,3 +19,4 @@ Solutions
 | 10 | [Adapter Array](Day10/AdapterArray.md) | Python |
 | 11 | [Seating System](Day11/SeatingSystem.md) | Java |
 | 12 | [Rain Risk](Day12/RainRisk.md) | Java |
+| 13 | [Shuttle Search](Day13/ShuttleSearch.md) | Javascript |
