@@ -1,5 +1,8 @@
 # 2020 Advent of Code Solutions
 
+Note -
+> These solutions are all contained within one file per day. While this isn't good practice, I didn't want to set up larger project directories within the individual days, especially since I'm using different languages. In addition, having one file per solution makes things a little easier to parse.
+
 Solutions
 | Day | Description | Language Used |
 | --- | ----------- | ------------- |
@@ -13,3 +16,4 @@ Solutions
 | 8 | [Handheld Halting](Day8/HandheldHalting.md) | Python |
 | 9 | [Encoding Error](Day9/EncodingError.md) | Javascript |
 | 10 | [Adapter Array](Day10/AdapterArray.md) | Python |
+| 11 | [Seating System](Day11/SeatingSystem.md) | Java |
