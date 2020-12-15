@@ -20,3 +20,4 @@ Solutions
 | 11 | [Seating System](Day11/SeatingSystem.md) | Java |
 | 12 | [Rain Risk](Day12/RainRisk.md) | Java |
 | 13 | [Shuttle Search](Day13/ShuttleSearch.md) | Javascript |
+| 14 | [Docking Data](Day14/DockingData.md) | Python |
