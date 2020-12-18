@@ -23,3 +23,4 @@ Solutions
 | 14 | [Docking Data](Day14/DockingData.md) | Python |
 | 15 | [Rambunctious Recitation](Day15/RambunctiousRecitation.md) | Javascript |
 | 16 | [Ticket Translation](Day16/TicketTranslation.md) | Python |
+| 17 | [Conway Cubes](Day17/ConwayCubes.md) | Javascript |
