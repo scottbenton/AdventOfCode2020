@@ -24,3 +24,4 @@ Solutions
 | 15 | [Rambunctious Recitation](Day15/RambunctiousRecitation.md) | Javascript |
 | 16 | [Ticket Translation](Day16/TicketTranslation.md) | Python |
 | 17 | [Conway Cubes](Day17/ConwayCubes.md) | Javascript |
+| 18 | [Operation Order](Day18/OperationOrder.md) | Java |
