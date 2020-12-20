@@ -25,3 +25,4 @@ Solutions
 | 16 | [Ticket Translation](Day16/TicketTranslation.md) | Python |
 | 17 | [Conway Cubes](Day17/ConwayCubes.md) | Javascript |
 | 18 | [Operation Order](Day18/OperationOrder.md) | Java |
+| 19 | [Monster Messages](Day19/MonsterMessages.md) | Java |
