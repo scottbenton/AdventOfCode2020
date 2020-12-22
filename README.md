@@ -27,3 +27,4 @@ Solutions
 | 18 | [Operation Order](Day18/OperationOrder.md) | Java |
 | 19 | [Monster Messages](Day19/MonsterMessages.md) | Java |
 | 20 | [Jurassic Jigsaw](Day20/JurassicJigsaw.md) | Python |
+| 21 | [Allergen Assessment](Day21/AllergenAssessment.md)| Javascript |
