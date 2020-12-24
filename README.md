@@ -29,3 +29,4 @@ Solutions
 | 20 | [Jurassic Jigsaw](Day20/JurassicJigsaw.md) | Python |
 | 21 | [Allergen Assessment](Day21/AllergenAssessment.md)| Javascript |
 | 22 | [Crab Combat 🗡️🦀](Day22/CrabCombat.md) | Python |
+| 23 | [Crab Cups 🥤🦀](Day23/CrabCups.md) | Python |
