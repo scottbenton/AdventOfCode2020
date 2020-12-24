@@ -30,3 +30,4 @@ Solutions
 | 21 | [Allergen Assessment](Day21/AllergenAssessment.md)| Javascript |
 | 22 | [Crab Combat 🗡️🦀](Day22/CrabCombat.md) | Python |
 | 23 | [Crab Cups 🥤🦀](Day23/CrabCups.md) | Python |
+| 24 | [Lobby Layout](Day24/LobbyLayout.md) | Python |
