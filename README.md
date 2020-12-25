@@ -31,3 +31,4 @@ Solutions
 | 22 | [Crab Combat 🗡️🦀](Day22/CrabCombat.md) | Python |
 | 23 | [Crab Cups 🥤🦀](Day23/CrabCups.md) | Python |
 | 24 | [Lobby Layout](Day24/LobbyLayout.md) | Python |
+| 25 | [Combo Breaker](Day25/ComboBreaker.md) | Python |
